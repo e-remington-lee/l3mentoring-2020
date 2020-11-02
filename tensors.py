@@ -1,12 +1,12 @@
 import numpy as np
-
+from bert.tokenization.bert_tokenization import FullTokenizer
 
 x = np.array(1)
 y = np.array((1,2))
 
 print(x.ndim)
 print(y.ndim)
-
+np.ar
 x = [{"a" : 1}, {"c" : 1}, {"b":2}]
 print(x)
 x = [1,2,3,4,5]
