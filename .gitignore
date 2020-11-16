@@ -8,5 +8,5 @@ saved_model
 model_path
 checkpoint
 log_dir
-
+work
 .vscode
