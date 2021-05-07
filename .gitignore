@@ -2,6 +2,7 @@ venv
 CSAbstruct
 PUBMED200K
 intent
+discriminator_model/checkpoints
 bert_en_uncased_L-12_H-768_A-12_2
 uncased_L-12_H-768_A-12
 saved_model
